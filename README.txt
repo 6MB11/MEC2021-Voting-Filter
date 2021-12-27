@@ -1,4 +1,4 @@
-# MEC2021-Voting-Filter
+MEC2021-Voting-Filter
 This is a java program that takes raw voting data and displays election results after processing the data to eliminate any invalid votes.
 
 
